@@ -1,0 +1,12 @@
+npm create vite
+npm i
+npm run dev
+
+..para produccion
+
+npm run build
+
+..rfce es7 react crear componente
+
+instalar tailwindcss
+npm install -D tailwindcss postcss autoprefixer
